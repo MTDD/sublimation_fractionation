@@ -8,4 +8,4 @@ dependencies:
   - IPython
   - matplotlib
   - pip:
-    -pygtk
+    - pygtk
