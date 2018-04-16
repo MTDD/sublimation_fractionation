@@ -7,4 +7,5 @@ dependencies:
   - ipywidgets
   - IPython
   - matplotlib
-  - pygtk
+  - pip:
+    -pygtk
