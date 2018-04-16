@@ -1,5 +1,5 @@
+conda install -c anaconda tk 
 numpy
 ipywidgets
 IPython
 matplotlib
-tk
