@@ -3,3 +3,7 @@ channels:
   - defaults
 dependencies:
   - tk
+  - numpy
+  - ipywidgets
+  - IPython
+  - matplotlib
